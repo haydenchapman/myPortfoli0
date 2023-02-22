@@ -117,7 +117,7 @@ img{
 
 /*start header*/
 header{
-    height: 100vh;
+    height: 85vh;
 }
 
 .top-nav{
@@ -649,8 +649,8 @@ input[type="submit"]:hover{
 @media screen and (max-width: 600px){
 
     *{
-        margin-left: 0.25rem;
-        margin-right: 0.4rem;
+        margin-left: 0.15rem;
+
     }
 
     body{
