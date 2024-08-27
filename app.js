@@ -30,7 +30,7 @@ $(document).ready(function () {
       2000
     );
   });
-
+  //animate on-scroll
   AOS.init({
     easing: "ease",
     duration: 1800,
